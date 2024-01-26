@@ -1,7 +1,3 @@
-print ("bust!")
-print ("I'm tweakin")
-print ("I'm geekin")
-
 import os
 from tkinter import Tk, Label, Entry, Button, Listbox, Scrollbar
 from threading import Thread
